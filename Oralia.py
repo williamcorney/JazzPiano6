@@ -1,7 +1,7 @@
 import sys, mido
 from PyQt6.QtWidgets import QApplication, QMainWindow, QTabWidget
 from tab1 import Tab1
-
+#
 class Oralia(QMainWindow):
     def __init__(self):
         super().__init__()
